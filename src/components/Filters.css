@@ -1,0 +1,10 @@
+/*Стили для кнопок*/
+button {
+  margin: 10px 2px;
+  padding: 2px 5px;
+}
+
+.active {
+    background-color: green;
+    color: white;
+  }
